@@ -1,1 +1,29 @@
 # JarvisVirtualAssistant
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copyright 2020, Joshua Marksberry, All rights reserved.

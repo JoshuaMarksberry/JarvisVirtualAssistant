@@ -81,7 +81,7 @@ def main():
 
     #your own directory below navigate to your own music
     elif 'play music' in query.lower():
-        songs_dir = 'C:\\Users\\joshu\\Music\\Playlists\\Iron Man Playlist\\Vocals'
+        songs_dir = 'C:\\Users\\joshua\\Music\\Playlists\\'
         songs = os.listdir(songs_dir)
         os.startfile(os.path.join(songs_dir, songs[1]))
 

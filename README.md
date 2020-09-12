@@ -2,6 +2,7 @@
 A very basic virtual assistant for you to run basic commands. Using python to do voice commands.  
 
 OS: Windows 10
+
 Version: Python 3.8.3
 Source-Code Editor: vscode
 

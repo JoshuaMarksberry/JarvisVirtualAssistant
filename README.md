@@ -1,5 +1,7 @@
 # JarvisVirtualAssistant
-A very basic virtual assistant for you to run basic commands. Using python to do voice commands.  
+A very basic virtual assistant for you to run basic commands. You can play music, send emails, open anylink, and use wikipedia. All with your voice using python.
+You can change the voice if you want by refrencing https://support.microsoft.com/en-us/help/4028598/windows-10-start-or-stop-narrator . Look at the code a go through -3,-2,
+
 
 OS: Windows 10
 

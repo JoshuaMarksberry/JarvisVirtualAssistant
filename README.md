@@ -6,11 +6,11 @@ Version: Python 3.8.3
 Source-Code Editor: vscode
 
 Packages: 
-pip install pyttsx3
-pip install wikipedia
-pip install speechRecognition
-pip install pipwin
-pipwin install pyaudio
+1. pip install pyttsx3
+2. pip install wikipedia
+3. pip install speechRecognition
+4. pip install pipwin
+5. pipwin install pyaudio
 
 
 

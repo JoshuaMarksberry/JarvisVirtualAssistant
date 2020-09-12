@@ -20,6 +20,7 @@ Packages:
 
 Limitations:
 You must program everything. So it is very limited. 
+Must be run in  your Source-Code Editor
 Three voice if you have united states package in settings. 
 The issue is you will have to change your whole layout 
 for you computer if you want a britsh voice option.

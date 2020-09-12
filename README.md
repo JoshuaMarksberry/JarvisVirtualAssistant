@@ -1,6 +1,6 @@
-# JarvisVirtualAssistant
-A very basic virtual assistant for you to run basic commands. You can play music, send emails, open anylink, and use wikipedia. All with your voice using python.
-You can change the voice if you want by refrencing https://support.microsoft.com/en-us/help/4028598/windows-10-start-or-stop-narrator . Look at the code a go through -3,-2,
+# JarvisVirtualAssistant V1
+A basic virtual assistant for you. You can play music, send emails, open anylink, and use wikipedia. All with your voice using python.
+You can change the voice if you want by refrencing https://support.microsoft.com/en-us/help/4028598/windows-10-start-or-stop-narrator 
 
 
 OS: Windows 10
@@ -22,11 +22,12 @@ Packages:
 
 Limitations:
 You must program everything. So it is very limited. 
-Must be run in  your Source-Code Editor
-Three voice if you have united states package in settings. 
+Must be running it in your own Source-Code Editor.
+Three voice if you have united states voice package in your settings. 
 The issue is you will have to change your whole layout 
-for you computer if you want a britsh voice option.
-Limited customization. Limited personalization. 
+for you computer if you want a britsh voice option. 
+You will also have to download the united kingdom english package.
+Limited customization. 
 
 
 
